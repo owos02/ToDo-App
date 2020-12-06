@@ -19,6 +19,7 @@ namespace WindowsFormsApplication1
         {
             InitializeComponent();
             //MessageBox.Show("Das aktuelle verzeichnis:" + Environment.CurrentDirectory);
+            //test
             
         }
         private void revert_color()
