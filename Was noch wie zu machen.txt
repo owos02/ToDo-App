@@ -1,0 +1,11 @@
+TODOListe
+!!auslesung ob erledigt oder nicht und daran die icons ändern
+
+!treeview sort funktion für priorität
+
+//bilder im treeview
+
+
+Nachdem Alles wichtige erledigt ist
+Routen Planer mit Google Maps
+(Design Ideen)
