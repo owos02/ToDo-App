@@ -26,15 +26,17 @@ namespace WindowsFormsApplication1.Seiten
             this.kundenTableAdapter.Fill(this.kundenDataSet.Kunden);
             kundenDataGridView.ClearSelection();
             Index = kundenDataSet.Kunden.Count() + 1;
-            //this.reportViewer1.RefreshReport();
         }
         private void SaveButton_Click(object sender, EventArgs e)
         {
+               //Neuer Kontakt wird angelegt
             if (AddName.Text != String.Empty && AddOrt.Text != String.Empty && AddStreet.Text != String.Empty && AddTel.Text != String.Empty)
             {
                 Index += 1;
 
+                //Werte in den TableAdapter schreiben
                 kundenTableAdapter.Insert(AddName.Text, AddStreet.Text, AddOrt.Text, Convert.ToInt32(AddTel.Text));
+                //Werte des TableAdapters in die Datenbank übernehmen
                 kundenTableAdapter.Fill(kundenDataSet.Kunden);
 
                 this.Refresh();
@@ -47,8 +49,10 @@ namespace WindowsFormsApplication1.Seiten
         }
         private void btnedit_Click(object sender, EventArgs e)
         {
+            //Bestehenden Kontak bearbeiten
             if (kundenDataGridView.SelectedRows.Count != 0) // PROBLEM
             {
+                //Daten des Kontaktes in der Maske ausgeben
                 EDIT_RowIndex = kundenDataGridView.SelectedCells[0].RowIndex;
                 btndelete.Visible = false;
                 addBox.Visible = false;
@@ -69,6 +73,7 @@ namespace WindowsFormsApplication1.Seiten
         }
         private void editbtnSave_Click(object sender, EventArgs e)
         {
+            //Bearbeitete Daten Übernehmen und speichern
             editBox.Visible = false;
             editBox.Location = new Point(424, 184);
             addBox.Visible = true;
@@ -77,17 +82,20 @@ namespace WindowsFormsApplication1.Seiten
             editbtnSave.Visible = false;
             editbtnSave.Location = new Point(592, 190);
 
-            //edit in Datenbank neu rein schreiben
+            //Editierte Daten in dem TableAdapter schreiben
             int seledit = EDIT_RowIndex;
             kundenTableAdapter.Update(editName.Text, editStreet.Text, editOrt.Text, Convert.ToInt32(editTel.Text), Convert.ToInt32(kundenDataGridView.Rows[seledit].Cells[0].Value.ToString()), kundenDataGridView.Rows[seledit].Cells[3].Value.ToString(), Convert.ToInt32(kundenDataGridView.Rows[seledit].Cells[4].Value.ToString()));
-            //in DGV rein schreiben
+            //TableAdapter in die Datenbank Übernehmen
             kundenTableAdapter.Fill(kundenDataSet.Kunden);
         }
         private void btndelete_Click(object sender, EventArgs e)
         {
+            //Vorhandenen Kontakt Löschen
             int selDel = kundenDataGridView.SelectedCells[0].RowIndex;
 
+            //Kontakt aus dem TableAdapter löschen
             kundenTableAdapter.Delete(Convert.ToInt32(kundenDataGridView.Rows[selDel].Cells[0].Value), kundenDataGridView.Rows[selDel].Cells[3].Value.ToString(), Convert.ToInt32(kundenDataGridView.Rows[selDel].Cells[4].Value));
+            //Änderung des TableAdapters in die Dantenbank übernehmen
             kundenTableAdapter.Fill(kundenDataSet.Kunden);
         }
     }
