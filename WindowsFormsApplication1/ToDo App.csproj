@@ -11,6 +11,7 @@
     <AssemblyName>ToDo App</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
     <PublishUrl>publish\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
@@ -23,7 +24,6 @@
     <MapFileExtensions>true</MapFileExtensions>
     <ApplicationRevision>0</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
-    <IsWebBootstrapper>false</IsWebBootstrapper>
     <UseApplicationTrust>false</UseApplicationTrust>
     <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
@@ -67,6 +67,7 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>KundenDataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Compile>
     <Compile Include="Seiten\1 Startseite.cs">
       <SubType>Form</SubType>
@@ -90,6 +91,7 @@
     </Compile>
     <EmbeddedResource Include="Seiten\1 Startseite.en.resx">
       <DependentUpon>1 Startseite.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Seiten\1 Startseite.resx">
       <DependentUpon>1 Startseite.cs</DependentUpon>
@@ -112,14 +114,17 @@
     </EmbeddedResource>
     <None Include="KundenDataSet.xsc">
       <DependentUpon>KundenDataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <EmbeddedResource Include="KundenDataSet.xsd">
       <Generator>MSDataSetGenerator</Generator>
       <LastGenOutput>KundenDataSet.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
     <None Include="KundenDataSet.xss">
       <DependentUpon>KundenDataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -135,6 +140,11 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
     <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
       <Visible>False</Visible>
       <ProductName>.NET Framework 3.5 SP1</ProductName>
@@ -142,14 +152,17 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="erledigt.ico" />
-    <EmbeddedResource Include="nicht_erledigt.ico" />
+    <EmbeddedResource Include="Icons\empty.ico" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Icons\" />
+    <EmbeddedResource Include="Icons\info.ico" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="empty.ico" />
+    <EmbeddedResource Include="Icons\folder.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Icons\done.ico" />
+    <EmbeddedResource Include="Icons\not_done.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

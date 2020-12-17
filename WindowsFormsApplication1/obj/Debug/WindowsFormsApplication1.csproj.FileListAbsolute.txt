@@ -1,0 +1,74 @@
+E:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Startseite.resources
+E:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\bin\Debug\en\WindowsFormsApplication1.resources.dll
+E:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Startseite.en.resources
+E:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\en\WindowsFormsApplication1.resources.dll
+E:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TODO_Liste.resources
+G:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\bin\Debug\en\WindowsFormsApplication1.resources.dll
+G:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+G:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Startseite.resources
+G:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TODO_Liste.resources
+G:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Startseite.en.resources
+G:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+G:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+G:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\en\WindowsFormsApplication1.resources.dll
+G:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Seiten.Kontakte.resources
+E:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Seiten.Kontakte.resources
+C:\Users\Morit\Desktop\Gruppenarbeit Dathe\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Morit\Desktop\Gruppenarbeit Dathe\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Morit\Desktop\Gruppenarbeit Dathe\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Morit\Desktop\Gruppenarbeit Dathe\WindowsFormsApplication1\bin\Debug\en\WindowsFormsApplication1.resources.dll
+C:\Users\Morit\Desktop\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\Morit\Desktop\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Startseite.resources
+C:\Users\Morit\Desktop\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Morit\Desktop\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Seiten.Kontakte.resources
+C:\Users\Morit\Desktop\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TODO_Liste.resources
+C:\Users\Morit\Desktop\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Startseite.en.resources
+C:\Users\Morit\Desktop\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Morit\Desktop\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Morit\Desktop\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\en\WindowsFormsApplication1.resources.dll
+C:\Users\Morit\Desktop\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Morit\Desktop\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\bin\Debug\en\WindowsFormsApplication1.resources.dll
+F:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Startseite.resources
+F:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Seiten.Kontakte.resources
+F:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TODO_Liste.resources
+F:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Startseite.en.resources
+F:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\en\WindowsFormsApplication1.resources.dll
+E:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+E:\Schule\Windows Forms\Gruppenarbeit Dathe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+E:\ToDo App - v0.2.5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\ToDo App - v0.2.5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\ToDo App - v0.2.5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\ToDo App - v0.2.5\WindowsFormsApplication1\bin\Debug\en\WindowsFormsApplication1.resources.dll
+E:\ToDo App - v0.2.5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+E:\ToDo App - v0.2.5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Startseite.resources
+E:\ToDo App - v0.2.5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\ToDo App - v0.2.5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Seiten.Kontakte.resources
+E:\ToDo App - v0.2.5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TODO_Liste.resources
+E:\ToDo App - v0.2.5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Startseite.en.resources
+E:\ToDo App - v0.2.5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+E:\ToDo App - v0.2.5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+E:\ToDo App - v0.2.5\WindowsFormsApplication1\obj\Debug\en\WindowsFormsApplication1.resources.dll
+E:\ToDo App - v0.2.5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\ToDo App - v0.2.5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

@@ -1,0 +1,178 @@
+E:\ToDo App - v0.2.5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Startseite.resources
+E:\ToDo App - v0.2.5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Seiten.Kontakte.resources
+E:\ToDo App - v0.2.5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TODO_Liste.resources
+E:\ToDo App - v0.2.5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Startseite.en.resources
+E:\ToDo App - v0.2.5\WindowsFormsApplication1\obj\Debug\ToDo App.csproj.GenerateResource.cache
+E:\ToDo App - v0.2.5\WindowsFormsApplication1\obj\Debug\ToDo App.csproj.CoreCompileInputs.cache
+E:\ToDo App - v0.2.5\WindowsFormsApplication1\bin\Debug\ToDo App.exe.config
+E:\ToDo App - v0.2.5\WindowsFormsApplication1\bin\Debug\ToDo App.exe
+E:\ToDo App - v0.2.5\WindowsFormsApplication1\bin\Debug\ToDo App.pdb
+E:\ToDo App - v0.2.5\WindowsFormsApplication1\bin\Debug\en\ToDo App.resources.dll
+E:\ToDo App - v0.2.5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\ToDo App - v0.2.5\WindowsFormsApplication1\obj\Debug\en\ToDo App.resources.dll
+E:\ToDo App - v0.2.5\WindowsFormsApplication1\obj\Debug\ToDo App.exe
+E:\ToDo App - v0.2.5\WindowsFormsApplication1\obj\Debug\ToDo App.pdb
+C:\Users\Oliver\Desktop\ToDo App - v0.2.5\WindowsFormsApplication1\bin\Debug\ToDo App.exe.config
+C:\Users\Oliver\Desktop\ToDo App - v0.2.5\WindowsFormsApplication1\bin\Debug\ToDo App.exe
+C:\Users\Oliver\Desktop\ToDo App - v0.2.5\WindowsFormsApplication1\bin\Debug\ToDo App.pdb
+C:\Users\Oliver\Desktop\ToDo App - v0.2.5\WindowsFormsApplication1\bin\Debug\en\ToDo App.resources.dll
+C:\Users\Oliver\Desktop\ToDo App - v0.2.5\WindowsFormsApplication1\obj\Debug\ToDo App.csprojAssemblyReference.cache
+C:\Users\Oliver\Desktop\ToDo App - v0.2.5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Startseite.resources
+C:\Users\Oliver\Desktop\ToDo App - v0.2.5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Oliver\Desktop\ToDo App - v0.2.5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Seiten.Kontakte.resources
+C:\Users\Oliver\Desktop\ToDo App - v0.2.5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TODO_Liste.resources
+C:\Users\Oliver\Desktop\ToDo App - v0.2.5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Startseite.en.resources
+C:\Users\Oliver\Desktop\ToDo App - v0.2.5\WindowsFormsApplication1\obj\Debug\ToDo App.csproj.GenerateResource.cache
+C:\Users\Oliver\Desktop\ToDo App - v0.2.5\WindowsFormsApplication1\obj\Debug\ToDo App.csproj.CoreCompileInputs.cache
+C:\Users\Oliver\Desktop\ToDo App - v0.2.5\WindowsFormsApplication1\obj\Debug\en\ToDo App.resources.dll
+C:\Users\Oliver\Desktop\ToDo App - v0.2.5\WindowsFormsApplication1\obj\Debug\ToDo App.exe
+C:\Users\Oliver\Desktop\ToDo App - v0.2.5\WindowsFormsApplication1\obj\Debug\ToDo App.pdb
+E:\ToDo App - v0.2.6\WindowsFormsApplication1\bin\Debug\ToDo App.exe.config
+E:\ToDo App - v0.2.6\WindowsFormsApplication1\obj\Debug\ToDo App.exe
+E:\ToDo App - v0.2.6\WindowsFormsApplication1\obj\Debug\ToDo App.pdb
+E:\ToDo App - v0.2.6\WindowsFormsApplication1\bin\Debug\ToDo App.exe
+E:\ToDo App - v0.2.6\WindowsFormsApplication1\bin\Debug\ToDo App.pdb
+E:\ToDo App - v0.2.6\WindowsFormsApplication1\bin\Debug\en\ToDo App.resources.dll
+E:\ToDo App - v0.2.6\WindowsFormsApplication1\obj\Debug\ToDo App.csprojResolveAssemblyReference.cache
+E:\ToDo App - v0.2.6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Startseite.resources
+E:\ToDo App - v0.2.6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\ToDo App - v0.2.6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Seiten.Kontakte.resources
+E:\ToDo App - v0.2.6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TODO_Liste.resources
+E:\ToDo App - v0.2.6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Startseite.en.resources
+E:\ToDo App - v0.2.6\WindowsFormsApplication1\obj\Debug\ToDo App.csproj.GenerateResource.Cache
+E:\ToDo App - v0.2.6\WindowsFormsApplication1\obj\Debug\en\ToDo App.resources.dll
+H:\ToDo App - v0.2.6\WindowsFormsApplication1\bin\Debug\ToDo App.exe.config
+H:\ToDo App - v0.2.6\WindowsFormsApplication1\bin\Debug\ToDo App.exe
+H:\ToDo App - v0.2.6\WindowsFormsApplication1\bin\Debug\ToDo App.pdb
+H:\ToDo App - v0.2.6\WindowsFormsApplication1\bin\Debug\en\ToDo App.resources.dll
+H:\ToDo App - v0.2.6\WindowsFormsApplication1\obj\Debug\ToDo App.csprojAssemblyReference.cache
+H:\ToDo App - v0.2.6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Startseite.resources
+H:\ToDo App - v0.2.6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\ToDo App - v0.2.6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Seiten.Kontakte.resources
+H:\ToDo App - v0.2.6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TODO_Liste.resources
+H:\ToDo App - v0.2.6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Startseite.en.resources
+H:\ToDo App - v0.2.6\WindowsFormsApplication1\obj\Debug\ToDo App.csproj.GenerateResource.cache
+H:\ToDo App - v0.2.6\WindowsFormsApplication1\obj\Debug\ToDo App.csproj.CoreCompileInputs.cache
+H:\ToDo App - v0.2.6\WindowsFormsApplication1\obj\Debug\en\ToDo App.resources.dll
+H:\ToDo App - v0.2.6\WindowsFormsApplication1\obj\Debug\ToDo App.exe
+H:\ToDo App - v0.2.6\WindowsFormsApplication1\obj\Debug\ToDo App.pdb
+C:\Users\Oliver\Desktop\ToDo App - v0.2.6\WindowsFormsApplication1\bin\Debug\ToDo App.exe.config
+C:\Users\Oliver\Desktop\ToDo App - v0.2.6\WindowsFormsApplication1\bin\Debug\ToDo App.exe
+C:\Users\Oliver\Desktop\ToDo App - v0.2.6\WindowsFormsApplication1\bin\Debug\ToDo App.pdb
+C:\Users\Oliver\Desktop\ToDo App - v0.2.6\WindowsFormsApplication1\bin\Debug\en\ToDo App.resources.dll
+C:\Users\Oliver\Desktop\ToDo App - v0.2.6\WindowsFormsApplication1\obj\Debug\ToDo App.csprojAssemblyReference.cache
+C:\Users\Oliver\Desktop\ToDo App - v0.2.6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Startseite.resources
+C:\Users\Oliver\Desktop\ToDo App - v0.2.6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Oliver\Desktop\ToDo App - v0.2.6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Seiten.Kontakte.resources
+C:\Users\Oliver\Desktop\ToDo App - v0.2.6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TODO_Liste.resources
+C:\Users\Oliver\Desktop\ToDo App - v0.2.6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Startseite.en.resources
+C:\Users\Oliver\Desktop\ToDo App - v0.2.6\WindowsFormsApplication1\obj\Debug\ToDo App.csproj.GenerateResource.cache
+C:\Users\Oliver\Desktop\ToDo App - v0.2.6\WindowsFormsApplication1\obj\Debug\ToDo App.csproj.CoreCompileInputs.cache
+C:\Users\Oliver\Desktop\ToDo App - v0.2.6\WindowsFormsApplication1\obj\Debug\en\ToDo App.resources.dll
+C:\Users\Oliver\Desktop\ToDo App - v0.2.6\WindowsFormsApplication1\obj\Debug\ToDo App.exe
+C:\Users\Oliver\Desktop\ToDo App - v0.2.6\WindowsFormsApplication1\obj\Debug\ToDo App.pdb
+C:\Users\Oliver\Desktop\ToDo App - v0.3\WindowsFormsApplication1\bin\Debug\ToDo App.exe.config
+C:\Users\Oliver\Desktop\ToDo App - v0.3\WindowsFormsApplication1\bin\Debug\ToDo App.exe
+C:\Users\Oliver\Desktop\ToDo App - v0.3\WindowsFormsApplication1\bin\Debug\ToDo App.pdb
+C:\Users\Oliver\Desktop\ToDo App - v0.3\WindowsFormsApplication1\bin\Debug\en\ToDo App.resources.dll
+C:\Users\Oliver\Desktop\ToDo App - v0.3\WindowsFormsApplication1\obj\Debug\ToDo App.csprojAssemblyReference.cache
+C:\Users\Oliver\Desktop\ToDo App - v0.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Startseite.resources
+C:\Users\Oliver\Desktop\ToDo App - v0.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Oliver\Desktop\ToDo App - v0.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Seiten.Kontakte.resources
+C:\Users\Oliver\Desktop\ToDo App - v0.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TODO_Liste.resources
+C:\Users\Oliver\Desktop\ToDo App - v0.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Startseite.en.resources
+C:\Users\Oliver\Desktop\ToDo App - v0.3\WindowsFormsApplication1\obj\Debug\ToDo App.csproj.GenerateResource.cache
+C:\Users\Oliver\Desktop\ToDo App - v0.3\WindowsFormsApplication1\obj\Debug\ToDo App.csproj.CoreCompileInputs.cache
+C:\Users\Oliver\Desktop\ToDo App - v0.3\WindowsFormsApplication1\obj\Debug\en\ToDo App.resources.dll
+C:\Users\Oliver\Desktop\ToDo App - v0.3\WindowsFormsApplication1\obj\Debug\ToDo App.exe
+C:\Users\Oliver\Desktop\ToDo App - v0.3\WindowsFormsApplication1\obj\Debug\ToDo App.pdb
+C:\Users\Oliver\Desktop\ToDo App - v0.3.1\WindowsFormsApplication1\bin\Debug\ToDo App.exe.config
+C:\Users\Oliver\Desktop\ToDo App - v0.3.1\WindowsFormsApplication1\bin\Debug\ToDo App.exe
+C:\Users\Oliver\Desktop\ToDo App - v0.3.1\WindowsFormsApplication1\bin\Debug\ToDo App.pdb
+C:\Users\Oliver\Desktop\ToDo App - v0.3.1\WindowsFormsApplication1\bin\Debug\en\ToDo App.resources.dll
+C:\Users\Oliver\Desktop\ToDo App - v0.3.1\WindowsFormsApplication1\obj\Debug\ToDo App.csprojAssemblyReference.cache
+C:\Users\Oliver\Desktop\ToDo App - v0.3.1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Startseite.resources
+C:\Users\Oliver\Desktop\ToDo App - v0.3.1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Oliver\Desktop\ToDo App - v0.3.1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Seiten.Kontakte.resources
+C:\Users\Oliver\Desktop\ToDo App - v0.3.1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TODO_Liste.resources
+C:\Users\Oliver\Desktop\ToDo App - v0.3.1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Startseite.en.resources
+C:\Users\Oliver\Desktop\ToDo App - v0.3.1\WindowsFormsApplication1\obj\Debug\ToDo App.csproj.GenerateResource.cache
+C:\Users\Oliver\Desktop\ToDo App - v0.3.1\WindowsFormsApplication1\obj\Debug\ToDo App.csproj.CoreCompileInputs.cache
+C:\Users\Oliver\Desktop\ToDo App - v0.3.1\WindowsFormsApplication1\obj\Debug\en\ToDo App.resources.dll
+C:\Users\Oliver\Desktop\ToDo App - v0.3.1\WindowsFormsApplication1\obj\Debug\ToDo App.exe
+C:\Users\Oliver\Desktop\ToDo App - v0.3.1\WindowsFormsApplication1\obj\Debug\ToDo App.pdb
+E:\ToDo App - v0.3.1\WindowsFormsApplication1\bin\Debug\ToDo App.exe.config
+E:\ToDo App - v0.3.1\WindowsFormsApplication1\obj\Debug\ToDo App.exe
+E:\ToDo App - v0.3.1\WindowsFormsApplication1\obj\Debug\ToDo App.pdb
+E:\ToDo App - v0.3.1\WindowsFormsApplication1\bin\Debug\ToDo App.exe
+E:\ToDo App - v0.3.1\WindowsFormsApplication1\bin\Debug\ToDo App.pdb
+E:\ToDo App - v0.3.1\WindowsFormsApplication1\bin\Debug\en\ToDo App.resources.dll
+E:\ToDo App - v0.3.1\WindowsFormsApplication1\obj\Debug\ToDo App.csprojResolveAssemblyReference.cache
+E:\ToDo App - v0.3.1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Startseite.resources
+E:\ToDo App - v0.3.1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\ToDo App - v0.3.1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Seiten.Kontakte.resources
+E:\ToDo App - v0.3.1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TODO_Liste.resources
+E:\ToDo App - v0.3.1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Startseite.en.resources
+E:\ToDo App - v0.3.1\WindowsFormsApplication1\obj\Debug\ToDo App.csproj.GenerateResource.Cache
+E:\ToDo App - v0.3.1\WindowsFormsApplication1\obj\Debug\en\ToDo App.resources.dll
+F:\ToDo App - v0.3.1\WindowsFormsApplication1\bin\Debug\ToDo App.exe.config
+F:\ToDo App - v0.3.1\WindowsFormsApplication1\obj\Debug\ToDo App.exe
+F:\ToDo App - v0.3.1\WindowsFormsApplication1\obj\Debug\ToDo App.pdb
+F:\ToDo App - v0.3.1\WindowsFormsApplication1\bin\Debug\ToDo App.exe
+F:\ToDo App - v0.3.1\WindowsFormsApplication1\bin\Debug\ToDo App.pdb
+F:\ToDo App - v0.3.1\WindowsFormsApplication1\bin\Debug\en\ToDo App.resources.dll
+F:\ToDo App - v0.3.1\WindowsFormsApplication1\obj\Debug\ToDo App.csprojResolveAssemblyReference.cache
+F:\ToDo App - v0.3.1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Startseite.resources
+F:\ToDo App - v0.3.1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\ToDo App - v0.3.1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Seiten.Kontakte.resources
+F:\ToDo App - v0.3.1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TODO_Liste.resources
+F:\ToDo App - v0.3.1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Startseite.en.resources
+F:\ToDo App - v0.3.1\WindowsFormsApplication1\obj\Debug\ToDo App.csproj.GenerateResource.Cache
+F:\ToDo App - v0.3.1\WindowsFormsApplication1\obj\Debug\en\ToDo App.resources.dll
+F:\ToDo App - v0.4.0\WindowsFormsApplication1\bin\Debug\ToDo App.exe.config
+F:\ToDo App - v0.4.0\WindowsFormsApplication1\obj\Debug\ToDo App.exe
+F:\ToDo App - v0.4.0\WindowsFormsApplication1\obj\Debug\ToDo App.pdb
+F:\ToDo App - v0.4.0\WindowsFormsApplication1\bin\Debug\ToDo App.exe
+F:\ToDo App - v0.4.0\WindowsFormsApplication1\bin\Debug\ToDo App.pdb
+F:\ToDo App - v0.4.0\WindowsFormsApplication1\bin\Debug\en\ToDo App.resources.dll
+F:\ToDo App - v0.4.0\WindowsFormsApplication1\obj\Debug\ToDo App.csprojResolveAssemblyReference.cache
+F:\ToDo App - v0.4.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Startseite.resources
+F:\ToDo App - v0.4.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\ToDo App - v0.4.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Seiten.Kontakte.resources
+F:\ToDo App - v0.4.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TODO_Liste.resources
+F:\ToDo App - v0.4.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Startseite.en.resources
+F:\ToDo App - v0.4.0\WindowsFormsApplication1\obj\Debug\ToDo App.csproj.GenerateResource.Cache
+F:\ToDo App - v0.4.0\WindowsFormsApplication1\obj\Debug\en\ToDo App.resources.dll
+E:\ToDo App - v0.4.0\WindowsFormsApplication1\bin\Debug\ToDo App.exe.config
+E:\ToDo App - v0.4.0\WindowsFormsApplication1\obj\Debug\ToDo App.exe
+E:\ToDo App - v0.4.0\WindowsFormsApplication1\obj\Debug\ToDo App.pdb
+E:\ToDo App - v0.4.0\WindowsFormsApplication1\bin\Debug\ToDo App.exe
+E:\ToDo App - v0.4.0\WindowsFormsApplication1\bin\Debug\ToDo App.pdb
+E:\ToDo App - v0.4.0\WindowsFormsApplication1\bin\Debug\en\ToDo App.resources.dll
+E:\ToDo App - v0.4.0\WindowsFormsApplication1\obj\Debug\ToDo App.csprojResolveAssemblyReference.cache
+E:\ToDo App - v0.4.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Startseite.resources
+E:\ToDo App - v0.4.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\ToDo App - v0.4.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Seiten.Kontakte.resources
+E:\ToDo App - v0.4.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TODO_Liste.resources
+E:\ToDo App - v0.4.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Startseite.en.resources
+E:\ToDo App - v0.4.0\WindowsFormsApplication1\obj\Debug\ToDo App.csproj.GenerateResource.Cache
+E:\ToDo App - v0.4.0\WindowsFormsApplication1\obj\Debug\en\ToDo App.resources.dll
+H:\ToDo App - v0.4.0\WindowsFormsApplication1\bin\Debug\ToDo App.exe.config
+H:\ToDo App - v0.4.0\WindowsFormsApplication1\bin\Debug\ToDo App.exe
+H:\ToDo App - v0.4.0\WindowsFormsApplication1\bin\Debug\ToDo App.pdb
+H:\ToDo App - v0.4.0\WindowsFormsApplication1\bin\Debug\en\ToDo App.resources.dll
+H:\ToDo App - v0.4.0\WindowsFormsApplication1\obj\Debug\ToDo App.csprojAssemblyReference.cache
+H:\ToDo App - v0.4.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Startseite.resources
+H:\ToDo App - v0.4.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\ToDo App - v0.4.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Seiten.Kontakte.resources
+H:\ToDo App - v0.4.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TODO_Liste.resources
+H:\ToDo App - v0.4.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Startseite.en.resources
+H:\ToDo App - v0.4.0\WindowsFormsApplication1\obj\Debug\ToDo App.csproj.GenerateResource.cache
+H:\ToDo App - v0.4.0\WindowsFormsApplication1\obj\Debug\ToDo App.csproj.CoreCompileInputs.cache
+H:\ToDo App - v0.4.0\WindowsFormsApplication1\obj\Debug\en\ToDo App.resources.dll
+H:\ToDo App - v0.4.0\WindowsFormsApplication1\obj\Debug\ToDo App.exe
+H:\ToDo App - v0.4.0\WindowsFormsApplication1\obj\Debug\ToDo App.pdb
+H:\ToDo App - v0.4.0\WindowsFormsApplication1\bin\Debug\KundenDataSet.xsd
+H:\ToDo App - v0.4.0\WindowsFormsApplication1\bin\Debug\KundenDataSet.Designer.cs
+H:\ToDo App - v0.4.0\WindowsFormsApplication1\bin\Debug\KundenDataSet.xsc
+H:\ToDo App - v0.4.0\WindowsFormsApplication1\bin\Debug\KundenDataSet.xss

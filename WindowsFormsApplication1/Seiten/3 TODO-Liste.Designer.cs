@@ -65,6 +65,7 @@
             this.btnexpandall = new System.Windows.Forms.Button();
             this.saveAll = new System.Windows.Forms.Button();
             this.editToDo = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.Priority)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.kundenDataSet)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.kundenBindingSource)).BeginInit();
@@ -79,7 +80,7 @@
             this.treeView1.Location = new System.Drawing.Point(30, 27);
             this.treeView1.Name = "treeView1";
             this.treeView1.PathSeparator = ":";
-            this.treeView1.Size = new System.Drawing.Size(344, 399);
+            this.treeView1.Size = new System.Drawing.Size(344, 374);
             this.treeView1.TabIndex = 0;
             this.treeView1.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.treeView1_AfterSelect);
             // 
@@ -98,7 +99,7 @@
             // NewTODO
             // 
             this.NewTODO.ForeColor = System.Drawing.Color.Black;
-            this.NewTODO.Location = new System.Drawing.Point(30, 432);
+            this.NewTODO.Location = new System.Drawing.Point(30, 410);
             this.NewTODO.Name = "NewTODO";
             this.NewTODO.Size = new System.Drawing.Size(109, 25);
             this.NewTODO.TabIndex = 3;
@@ -120,12 +121,13 @@
             // Delete
             // 
             this.Delete.ForeColor = System.Drawing.Color.Black;
-            this.Delete.Location = new System.Drawing.Point(12, 114);
+            this.Delete.Location = new System.Drawing.Point(177, 92);
             this.Delete.Name = "Delete";
             this.Delete.Size = new System.Drawing.Size(144, 25);
             this.Delete.TabIndex = 5;
             this.Delete.Text = "Löschen";
             this.Delete.UseVisualStyleBackColor = true;
+            this.Delete.Visible = false;
             this.Delete.Click += new System.EventHandler(this.Delete_Click);
             // 
             // SelectContact
@@ -134,7 +136,7 @@
             this.SelectContact.ForeColor = System.Drawing.Color.Black;
             this.SelectContact.Location = new System.Drawing.Point(210, 29);
             this.SelectContact.Name = "SelectContact";
-            this.SelectContact.Size = new System.Drawing.Size(115, 21);
+            this.SelectContact.Size = new System.Drawing.Size(111, 21);
             this.SelectContact.TabIndex = 6;
             this.SelectContact.Text = "Kontakt Auswählen";
             this.SelectContact.UseVisualStyleBackColor = true;
@@ -277,7 +279,7 @@
             // NewNameSave
             // 
             this.NewNameSave.ForeColor = System.Drawing.Color.Black;
-            this.NewNameSave.Location = new System.Drawing.Point(168, 19);
+            this.NewNameSave.Location = new System.Drawing.Point(151, 19);
             this.NewNameSave.Name = "NewNameSave";
             this.NewNameSave.Size = new System.Drawing.Size(55, 20);
             this.NewNameSave.TabIndex = 23;
@@ -299,7 +301,7 @@
             this.groupBox1.Controls.Add(this.label4);
             this.groupBox1.Controls.Add(this.NewEntry);
             this.groupBox1.ForeColor = System.Drawing.Color.CornflowerBlue;
-            this.groupBox1.Location = new System.Drawing.Point(391, 27);
+            this.groupBox1.Location = new System.Drawing.Point(390, 27);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(331, 271);
             this.groupBox1.TabIndex = 26;
@@ -310,7 +312,7 @@
             // 
             this.NewName.Location = new System.Drawing.Point(47, 19);
             this.NewName.Name = "NewName";
-            this.NewName.Size = new System.Drawing.Size(115, 20);
+            this.NewName.Size = new System.Drawing.Size(98, 20);
             this.NewName.TabIndex = 22;
             // 
             // editEintrag
@@ -326,9 +328,9 @@
             this.editEintrag.Controls.Add(this.kontzal);
             this.editEintrag.Controls.Add(this.label7);
             this.editEintrag.ForeColor = System.Drawing.Color.CornflowerBlue;
-            this.editEintrag.Location = new System.Drawing.Point(391, 335);
+            this.editEintrag.Location = new System.Drawing.Point(390, 335);
             this.editEintrag.Name = "editEintrag";
-            this.editEintrag.Size = new System.Drawing.Size(331, 153);
+            this.editEintrag.Size = new System.Drawing.Size(331, 125);
             this.editEintrag.TabIndex = 27;
             this.editEintrag.TabStop = false;
             this.editEintrag.Text = "Eintrag bearbeiten";
@@ -350,7 +352,7 @@
             // 
             this.radioButton2.AutoSize = true;
             this.radioButton2.ForeColor = System.Drawing.Color.Azure;
-            this.radioButton2.Location = new System.Drawing.Point(157, 78);
+            this.radioButton2.Location = new System.Drawing.Point(157, 69);
             this.radioButton2.Name = "radioButton2";
             this.radioButton2.Size = new System.Drawing.Size(47, 17);
             this.radioButton2.TabIndex = 31;
@@ -361,7 +363,7 @@
             // 
             this.radioButton1.AutoSize = true;
             this.radioButton1.ForeColor = System.Drawing.Color.Azure;
-            this.radioButton1.Location = new System.Drawing.Point(83, 78);
+            this.radioButton1.Location = new System.Drawing.Point(83, 69);
             this.radioButton1.Name = "radioButton1";
             this.radioButton1.Size = new System.Drawing.Size(36, 17);
             this.radioButton1.TabIndex = 30;
@@ -372,7 +374,7 @@
             // EditSave
             // 
             this.EditSave.ForeColor = System.Drawing.Color.Black;
-            this.EditSave.Location = new System.Drawing.Point(177, 114);
+            this.EditSave.Location = new System.Drawing.Point(12, 92);
             this.EditSave.Name = "EditSave";
             this.EditSave.Size = new System.Drawing.Size(144, 25);
             this.EditSave.TabIndex = 29;
@@ -384,7 +386,7 @@
             // 
             this.label9.AutoSize = true;
             this.label9.ForeColor = System.Drawing.Color.Azure;
-            this.label9.Location = new System.Drawing.Point(9, 78);
+            this.label9.Location = new System.Drawing.Point(9, 69);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(42, 13);
             this.label9.TabIndex = 26;
@@ -396,7 +398,7 @@
             this.newTodoBox.Controls.Add(this.NewName);
             this.newTodoBox.Controls.Add(this.NewNameSave);
             this.newTodoBox.ForeColor = System.Drawing.Color.CornflowerBlue;
-            this.newTodoBox.Location = new System.Drawing.Point(145, 433);
+            this.newTodoBox.Location = new System.Drawing.Point(145, 405);
             this.newTodoBox.Name = "newTodoBox";
             this.newTodoBox.Size = new System.Drawing.Size(229, 55);
             this.newTodoBox.TabIndex = 28;
@@ -417,7 +419,7 @@
             // btnexpandall
             // 
             this.btnexpandall.ForeColor = System.Drawing.Color.Black;
-            this.btnexpandall.Location = new System.Drawing.Point(323, 406);
+            this.btnexpandall.Location = new System.Drawing.Point(323, 381);
             this.btnexpandall.Name = "btnexpandall";
             this.btnexpandall.Size = new System.Drawing.Size(33, 20);
             this.btnexpandall.TabIndex = 31;
@@ -428,7 +430,7 @@
             // saveAll
             // 
             this.saveAll.ForeColor = System.Drawing.Color.Black;
-            this.saveAll.Location = new System.Drawing.Point(30, 464);
+            this.saveAll.Location = new System.Drawing.Point(30, 437);
             this.saveAll.Name = "saveAll";
             this.saveAll.Size = new System.Drawing.Size(109, 23);
             this.saveAll.TabIndex = 29;
@@ -439,7 +441,7 @@
             // editToDo
             // 
             this.editToDo.ForeColor = System.Drawing.Color.Black;
-            this.editToDo.Location = new System.Drawing.Point(391, 304);
+            this.editToDo.Location = new System.Drawing.Point(390, 305);
             this.editToDo.Name = "editToDo";
             this.editToDo.Size = new System.Drawing.Size(109, 25);
             this.editToDo.TabIndex = 30;
@@ -447,12 +449,24 @@
             this.editToDo.UseVisualStyleBackColor = true;
             this.editToDo.Click += new System.EventHandler(this.editToDo_Click);
             // 
+            // button1
+            // 
+            this.button1.ForeColor = System.Drawing.Color.Black;
+            this.button1.Location = new System.Drawing.Point(505, 305);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(109, 25);
+            this.button1.TabIndex = 32;
+            this.button1.Text = "Löschen";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.Delete_Click);
+            // 
             // TODO_Liste
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(25)))), ((int)(((byte)(25)))), ((int)(((byte)(25)))));
-            this.ClientSize = new System.Drawing.Size(745, 505);
+            this.ClientSize = new System.Drawing.Size(745, 477);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.btnexpandall);
             this.Controls.Add(this.editToDo);
             this.Controls.Add(this.saveAll);
@@ -498,7 +512,7 @@
         private System.Windows.Forms.DateTimePicker StartDate;
         private System.Windows.Forms.TextBox Title;
         private KundenDataSet kundenDataSet;
-        private System.Windows.Forms.BindingSource kundenBindingSource;
+        public System.Windows.Forms.BindingSource kundenBindingSource;
         private KundenDataSetTableAdapters.KundenTableAdapter kundenTableAdapter;
         private KundenDataSetTableAdapters.TableAdapterManager tableAdapterManager;
         private System.Windows.Forms.LinkLabel kontzal;
@@ -517,5 +531,6 @@
         private System.Windows.Forms.Button editToDo;
         private System.Windows.Forms.ComboBox nameComboBox;
         private System.Windows.Forms.Button btnexpandall;
+        private System.Windows.Forms.Button button1;
     }
 }

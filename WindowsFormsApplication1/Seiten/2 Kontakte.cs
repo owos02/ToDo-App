@@ -12,6 +12,7 @@ namespace WindowsFormsApplication1.Seiten
 {
     public partial class Kontakte : Form
     {
+        private int EDIT_RowIndex = 0;
         static private int Index;
         public Kontakte()
         {
@@ -46,8 +47,9 @@ namespace WindowsFormsApplication1.Seiten
         }
         private void btnedit_Click(object sender, EventArgs e)
         {
-            if (!(kundenDataGridView.CurrentCell.RowIndex == 0))
+            if (kundenDataGridView.SelectedRows.Count != 0) // PROBLEM
             {
+                EDIT_RowIndex = kundenDataGridView.SelectedCells[0].RowIndex;
                 btndelete.Visible = false;
                 addBox.Visible = false;
                 editBox.Location = new Point(424, 184);
@@ -76,7 +78,7 @@ namespace WindowsFormsApplication1.Seiten
             editbtnSave.Location = new Point(592, 190);
 
             //edit in Datenbank neu rein schreiben
-            int seledit = kundenDataGridView.SelectedCells[0].RowIndex;
+            int seledit = EDIT_RowIndex;
             kundenTableAdapter.Update(editName.Text, editStreet.Text, editOrt.Text, Convert.ToInt32(editTel.Text), Convert.ToInt32(kundenDataGridView.Rows[seledit].Cells[0].Value.ToString()), kundenDataGridView.Rows[seledit].Cells[3].Value.ToString(), Convert.ToInt32(kundenDataGridView.Rows[seledit].Cells[4].Value.ToString()));
             //in DGV rein schreiben
             kundenTableAdapter.Fill(kundenDataSet.Kunden);
