@@ -29,13 +29,14 @@ namespace WindowsFormsApplication1.Seiten
         }
         private void SaveButton_Click(object sender, EventArgs e)
         {
-               //Neuer Kontakt wird angelegt
-            if (AddName.Text != String.Empty && AddOrt.Text != String.Empty && AddStreet.Text != String.Empty && AddTel.Text != String.Empty)
+
+            //Neuer Kontakt wird angelegt
+            if (AddName.Text != String.Empty && AddOrt.Text != String.Empty && AddStreet.Text != String.Empty && AddTel.Text != String.Empty && Int32.TryParse(AddTel.Text, out int int_tel))
             {
                 Index += 1;
 
                 //Werte in den TableAdapter schreiben
-                kundenTableAdapter.Insert(AddName.Text, AddStreet.Text, AddOrt.Text, Convert.ToInt32(AddTel.Text));
+                kundenTableAdapter.Insert(AddName.Text, AddStreet.Text, AddOrt.Text, int_tel);
                 //Werte des TableAdapters in die Datenbank übernehmen
                 kundenTableAdapter.Fill(kundenDataSet.Kunden);
 
@@ -46,6 +47,7 @@ namespace WindowsFormsApplication1.Seiten
                 AddStreet.Text = String.Empty;
                 AddTel.Text = String.Empty;
             }
+            else MessageBox.Show("FEHLER! Bitte Überprüfen sie die Eingabe.");
         }
         private void btnedit_Click(object sender, EventArgs e)
         {
