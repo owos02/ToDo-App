@@ -259,6 +259,7 @@
             this.kundenDataGridView.Size = new System.Drawing.Size(406, 377);
             this.kundenDataGridView.TabIndex = 1;
             this.kundenDataGridView.TabStop = false;
+            this.kundenDataGridView.MouseClick += new System.Windows.Forms.MouseEventHandler(this.kundenDataGridView_MouseClick);
             // 
             // dataGridViewTextBoxColumn1
             // 

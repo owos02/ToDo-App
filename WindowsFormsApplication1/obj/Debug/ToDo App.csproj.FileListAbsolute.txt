@@ -176,3 +176,22 @@ H:\ToDo App - v0.4.0\WindowsFormsApplication1\bin\Debug\KundenDataSet.xsd
 H:\ToDo App - v0.4.0\WindowsFormsApplication1\bin\Debug\KundenDataSet.Designer.cs
 H:\ToDo App - v0.4.0\WindowsFormsApplication1\bin\Debug\KundenDataSet.xsc
 H:\ToDo App - v0.4.0\WindowsFormsApplication1\bin\Debug\KundenDataSet.xss
+C:\Users\Morit\Source\Repos\ToDo-App\WindowsFormsApplication1\bin\Debug\KundenDataSet.xsd
+C:\Users\Morit\Source\Repos\ToDo-App\WindowsFormsApplication1\bin\Debug\KundenDataSet.Designer.cs
+C:\Users\Morit\Source\Repos\ToDo-App\WindowsFormsApplication1\bin\Debug\KundenDataSet.xsc
+C:\Users\Morit\Source\Repos\ToDo-App\WindowsFormsApplication1\bin\Debug\KundenDataSet.xss
+C:\Users\Morit\Source\Repos\ToDo-App\WindowsFormsApplication1\bin\Debug\ToDo App.exe.config
+C:\Users\Morit\Source\Repos\ToDo-App\WindowsFormsApplication1\bin\Debug\ToDo App.exe
+C:\Users\Morit\Source\Repos\ToDo-App\WindowsFormsApplication1\bin\Debug\ToDo App.pdb
+C:\Users\Morit\Source\Repos\ToDo-App\WindowsFormsApplication1\bin\Debug\en\ToDo App.resources.dll
+C:\Users\Morit\Source\Repos\ToDo-App\WindowsFormsApplication1\obj\Debug\ToDo App.csprojAssemblyReference.cache
+C:\Users\Morit\Source\Repos\ToDo-App\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Startseite.resources
+C:\Users\Morit\Source\Repos\ToDo-App\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Morit\Source\Repos\ToDo-App\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Seiten.Kontakte.resources
+C:\Users\Morit\Source\Repos\ToDo-App\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TODO_Liste.resources
+C:\Users\Morit\Source\Repos\ToDo-App\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Startseite.en.resources
+C:\Users\Morit\Source\Repos\ToDo-App\WindowsFormsApplication1\obj\Debug\ToDo App.csproj.GenerateResource.cache
+C:\Users\Morit\Source\Repos\ToDo-App\WindowsFormsApplication1\obj\Debug\ToDo App.csproj.CoreCompileInputs.cache
+C:\Users\Morit\Source\Repos\ToDo-App\WindowsFormsApplication1\obj\Debug\en\ToDo App.resources.dll
+C:\Users\Morit\Source\Repos\ToDo-App\WindowsFormsApplication1\obj\Debug\ToDo App.exe
+C:\Users\Morit\Source\Repos\ToDo-App\WindowsFormsApplication1\obj\Debug\ToDo App.pdb

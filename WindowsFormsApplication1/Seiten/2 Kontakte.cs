@@ -90,13 +90,56 @@ namespace WindowsFormsApplication1.Seiten
         }
         private void btndelete_Click(object sender, EventArgs e)
         {
-            //Vorhandenen Kontakt Löschen
-            int selDel = kundenDataGridView.SelectedCells[0].RowIndex;
+            //Löschen sichergehen
+            DialogResult dialogResult = MessageBox.Show("Wollen Sie wirklich den Kontakt Löschen?", "Warnung", MessageBoxButtons.YesNo);
+            if (dialogResult == DialogResult.Yes) //Wenn 'Ja' gedrückt wurde
+            {
+                //Vorhandenen Kontakt Löschen
+                int selDel = kundenDataGridView.SelectedCells[0].RowIndex;
 
-            //Kontakt aus dem TableAdapter löschen
-            kundenTableAdapter.Delete(Convert.ToInt32(kundenDataGridView.Rows[selDel].Cells[0].Value), kundenDataGridView.Rows[selDel].Cells[3].Value.ToString(), Convert.ToInt32(kundenDataGridView.Rows[selDel].Cells[4].Value));
-            //Änderung des TableAdapters in die Dantenbank übernehmen
-            kundenTableAdapter.Fill(kundenDataSet.Kunden);
+                //Kontakt aus dem TableAdapter löschen
+                kundenTableAdapter.Delete(Convert.ToInt32(kundenDataGridView.Rows[selDel].Cells[0].Value), kundenDataGridView.Rows[selDel].Cells[3].Value.ToString(), Convert.ToInt32(kundenDataGridView.Rows[selDel].Cells[4].Value));
+                //Änderung des TableAdapters in die Dantenbank übernehmen
+                kundenTableAdapter.Fill(kundenDataSet.Kunden);
+            }     
+        }
+
+        private void kundenDataGridView_MouseClick(object sender, MouseEventArgs e)
+        {
+            //Rechtsklick auf einen Kontakt
+            if (e.Button == MouseButtons.Right)
+            {
+                int currentMouseOverRow = kundenDataGridView.HitTest(e.X, e.Y).RowIndex;
+
+                kundenDataGridView.Rows[currentMouseOverRow].Selected = true;
+                
+                //ContextMenu für Rechtsklick erstellen
+                ContextMenu m = new ContextMenu();
+                m.MenuItems.Add(new MenuItem("Berabeiten"));
+                m.MenuItems.Add(new MenuItem("Löschen"));
+                m.MenuItems.Add(new MenuItem("Google Maps"));
+
+                //Funktionen für die ContextMenu Items
+                m.MenuItems[0].Click += new EventHandler(btnedit_Click);
+                m.MenuItems[1].Click += new EventHandler(btndelete_Click);
+                m.MenuItems[2].Click += new EventHandler(GoogleMaps);
+
+                //ContextMenu anzeigen
+                m.Show(kundenDataGridView, new Point(e.X, e.Y));
+            }
+        }
+
+        private void GoogleMaps(object sender, EventArgs e)
+        {
+            //Route zum Kontakt planen
+            //http://maps.google.com/maps?daddr=STRAßE+HAUSNUMMER+POSTLEIZAHL+ORT
+
+            int selected_row = kundenDataGridView.SelectedCells[0].RowIndex;
+            string straße_hausnummer = kundenDataGridView.Rows[selected_row].Cells[2].Value.ToString();
+            string plz_ort = kundenDataGridView.Rows[selected_row].Cells[3].Value.ToString();
+
+            //Default browser öffen mit der URL
+            System.Diagnostics.Process.Start("http://maps.google.com/maps?daddr=" + straße_hausnummer + "+" + plz_ort);
         }
     }
 }
