@@ -112,22 +112,24 @@ namespace WindowsFormsApplication1.Seiten
             if (e.Button == MouseButtons.Right)
             {
                 int currentMouseOverRow = kundenDataGridView.HitTest(e.X, e.Y).RowIndex;
+                if (currentMouseOverRow >= 0)
+                {
+                    kundenDataGridView.Rows[currentMouseOverRow].Selected = true;
 
-                kundenDataGridView.Rows[currentMouseOverRow].Selected = true;
-                
-                //ContextMenu für Rechtsklick erstellen
-                ContextMenu m = new ContextMenu();
-                m.MenuItems.Add(new MenuItem("Berabeiten"));
-                m.MenuItems.Add(new MenuItem("Löschen"));
-                m.MenuItems.Add(new MenuItem("Google Maps"));
+                    //ContextMenu für Rechtsklick erstellen
+                    ContextMenu m = new ContextMenu();
+                    m.MenuItems.Add(new MenuItem("Berabeiten"));
+                    m.MenuItems.Add(new MenuItem("Löschen"));
+                    m.MenuItems.Add(new MenuItem("Google Maps"));
 
-                //Funktionen für die ContextMenu Items
-                m.MenuItems[0].Click += new EventHandler(btnedit_Click);
-                m.MenuItems[1].Click += new EventHandler(btndelete_Click);
-                m.MenuItems[2].Click += new EventHandler(GoogleMaps);
+                    //Funktionen für die ContextMenu Items
+                    m.MenuItems[0].Click += new EventHandler(btnedit_Click);
+                    m.MenuItems[1].Click += new EventHandler(btndelete_Click);
+                    m.MenuItems[2].Click += new EventHandler(GoogleMaps);
 
-                //ContextMenu anzeigen
-                m.Show(kundenDataGridView, new Point(e.X, e.Y));
+                    //ContextMenu anzeigen
+                    m.Show(kundenDataGridView, new Point(e.X, e.Y));
+                }
             }
         }
 
